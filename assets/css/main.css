@@ -232,6 +232,16 @@ input, select, textarea {
 
 		}
 
+		.inner {
+			text-align: center;
+		}
+		a.card-link {
+			text-decoration: none;
+			color: #ff4486;
+			font-size: 17px;
+			font-weight: 550;
+		}
+
 /* Row */
 
 	.row {
